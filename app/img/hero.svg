@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="693.632" viewBox="0 0 1360 693.632">
+  <g id="Group_16" data-name="Group 16" transform="translate(-293 -174.368)">
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(293 175)" fill="#220507" stroke="#707070" stroke-width="1" opacity="0.102">
+      <rect width="1360" height="693" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1359" height="692" fill="none"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(1048.184 177.868)">
+      <path id="Path_4" data-name="Path 4" d="M3536.87,136.875s-6.014,47.245-7.7,75.346-9.114,41.154-9.114,41.154L3625.109,368.59l49.2,77.1,48.918-176.939,24.306-131.878Z" transform="translate(-3200.044 -136.833)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="40.469" height="164.404" transform="matrix(0.643, 0.766, -0.766, 0.643, 546.979, 122.771)" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M3772,146.868H3718.12s-6.833,118.144-10.629,139.12c-3.6,19.885-13.639,36.452-13.848,36.846-1.839,3.46-7.739,4.95-11.125,13.325s-6.6,10.188-6.6,18.552c0,.008,1.143,15.649,7.24,19.26s1.754-12.984,2.13-18.353,3.125-12.143,12.21-10.819c3.928.573,4.253,8.3,11.733,12.221s13.806,6.752,18.185,3.445c3.742-2.825-5.73-4.628-12.746-10.372-6.642-5.437-10.825-9.918-5.44-13.935-.371,3.728,26.431,27.628,30.046,18.8,2.641-4.008-17.633-18.8-17.633-18.8s-7.358-14.059-3.521-13.325c.3.057,5.225,10.316,9.293,14.724,5.584,6.05,14.033,7.571,15.82,2.956.758-3.737-6.84-4.323-10.095-10.987s-2.479-10.764-2.925-15.67c-.968-10.658,3.634-8.421,5.541-16.885s40.681-145.6,36.241-150.1" transform="translate(-3224.499 -149.868)" stroke="#fff" stroke-width="1"/>
+      <path id="Path_8" data-name="Path 8" d="M3768.686,681.127l67.408,44.469-37.869,48.381-79.1-40.685Z" transform="translate(-3231.278 -230.657)"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(0 37.813)">
+        <path id="Path_3" data-name="Path 3" d="M0,32.631,482.213,0l8.345,361.947L0,331.358Z" transform="translate(334.56 605.619) rotate(-133)" fill="#fff"/>
+        <text id="I_AM_ANGRY" data-name="I
+AM 
+ANGRY" transform="translate(264.245 371.291) rotate(-133)" font-size="61" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-8.814" y="0">I</tspan><tspan x="-56.211" y="81">AM </tspan><tspan x="-108.305" y="162">ANGRY</tspan></text>
+      </g>
+      <path id="Path_9" data-name="Path 9" d="M49.565,0l67.408,44.469L79.1,92.85,0,52.165Z" transform="translate(242.868 462.858) rotate(90)"/>
+    </g>
+  </g>
+</svg>

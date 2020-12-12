@@ -1,0 +1,29 @@
+{
+	"name": "statisk-site-starter-kit",
+	"version": "1.0.0",
+	"description": "standardoppsett for bruk av html/sass/es6 sammen med gulp",
+	"main": "index.js",
+	"scripts": {
+		"build": "node_modules/gulp/bin/gulp.js build",
+		"start": "node_modules/gulp/bin/gulp.js start"
+	},
+	"browserslist": [
+		"defaults"
+	],
+	"author": "Alejandro V. Rojas",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.11.4",
+		"@babel/preset-env": "^7.11.0",
+		"autoprefixer": "^9.8.6",
+		"browser-sync": "^2.26.12",
+		"cssnano": "^4.1.10",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-minify": "^3.1.0",
+		"gulp-postcss": "^8.0.0",
+		"gulp-sass": "^4.1.0",
+		"node-sass": "^4.14.1"
+	},
+	"dependencies": {}
+}

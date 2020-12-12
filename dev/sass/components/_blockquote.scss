@@ -1,0 +1,35 @@
+.blockquote {
+    font-size: 5rem;
+    font-weight: 200;
+    color: $color-black;
+    position: relative;
+    margin: 8rem;
+    padding: 1rem 0rem 1rem 3rem;
+
+    @include respond(tab-land){
+        font-size: 4rem;
+    }
+    @include respond(phone){
+        font-size: 3rem;
+    }
+
+    &-cite {
+        color: #bdbdbd;
+        font-size: $default-font-size;
+    
+        display: block;
+        margin-top: 2rem;
+    }
+}
+
+blockquote:before {
+    position: absolute;
+    font-size: 20rem;
+    line-height: 1;
+    top: -2.5rem;
+    left: -6rem;
+    content: "\201C";
+}
+.blockquote-cite:before {
+    content: "\2014 \2009";
+}
